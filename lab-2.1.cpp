@@ -25,3 +25,4 @@ int main()
     cin.get();
     return 0;
 }
+// Зміна для завдання 3
